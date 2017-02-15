@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.DryIocExample", "JrTech.IocTalk.DryIocExample\JrTech.IocTalk.DryIocExample.csproj", "{5E40AC55-37F7-494D-994C-37CD3D7475DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.UnityExample", "JrTech.IocTalk.UnityExample\JrTech.IocTalk.UnityExample.csproj", "{6F476D75-5230-4170-82CA-E15ADDC6CB91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{BD3324A5-43D3-4D2B-8DF0-AF5CBD552D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.Library", "Library\JrTech.IocTalk.Library\JrTech.IocTalk.Library.csproj", "{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.Custom", "JrTech.IocTalk.Custom\JrTech.IocTalk.Custom.csproj", "{E9669218-0A42-498A-B788-8C233D204724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.AutofacExample", "JrTech.IocTalk.AutofacExample\JrTech.IocTalk.AutofacExample.csproj", "{D7592433-5EE1-4DBE-84F2-F764E95282AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JrTech.IocTalk.StructureMapExample", "JrTech.IocTalk.StructureMapExample\JrTech.IocTalk.StructureMapExample.csproj", "{66F3D292-1708-43EA-9119-DCE4DA44E25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E40AC55-37F7-494D-994C-37CD3D7475DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E40AC55-37F7-494D-994C-37CD3D7475DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E40AC55-37F7-494D-994C-37CD3D7475DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E40AC55-37F7-494D-994C-37CD3D7475DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F476D75-5230-4170-82CA-E15ADDC6CB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F476D75-5230-4170-82CA-E15ADDC6CB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F476D75-5230-4170-82CA-E15ADDC6CB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F476D75-5230-4170-82CA-E15ADDC6CB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9669218-0A42-498A-B788-8C233D204724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9669218-0A42-498A-B788-8C233D204724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9669218-0A42-498A-B788-8C233D204724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9669218-0A42-498A-B788-8C233D204724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7592433-5EE1-4DBE-84F2-F764E95282AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7592433-5EE1-4DBE-84F2-F764E95282AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7592433-5EE1-4DBE-84F2-F764E95282AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7592433-5EE1-4DBE-84F2-F764E95282AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F3D292-1708-43EA-9119-DCE4DA44E25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F3D292-1708-43EA-9119-DCE4DA44E25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F3D292-1708-43EA-9119-DCE4DA44E25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F3D292-1708-43EA-9119-DCE4DA44E25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AAB9E74D-44AA-4127-8B4F-B580AF3F47E4} = {BD3324A5-43D3-4D2B-8DF0-AF5CBD552D0F}
+	EndGlobalSection
+EndGlobal
