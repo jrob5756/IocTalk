@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace JrTech.IocTalk.Library.Utilities
+namespace JrTech.IocTalk.StandardLibrary.Utilities
 {
     public class Calculator : ICalculator
     {

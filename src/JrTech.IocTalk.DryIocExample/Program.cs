@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
 using DryIoc;
-using JrTech.IocTalk.Library;
-using JrTech.IocTalk.Library.Utilities.Logging;
+using JrTech.IocTalk.StandardLibrary;
+using JrTech.IocTalk.StandardLibrary.Utilities.Logging;
 
 namespace JrTech.IocTalk.DryIocExample
 {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using Autofac;
-using JrTech.IocTalk.Library;
+using JrTech.IocTalk.StandardLibrary;
 
 namespace JrTech.IocTalk.AutofacExample
 {

@@ -1,4 +1,4 @@
-﻿namespace JrTech.IocTalk.Library.Utilities.Logging
+﻿namespace JrTech.IocTalk.StandardLibrary.Utilities.Logging
 {
     public interface ILogger
     {

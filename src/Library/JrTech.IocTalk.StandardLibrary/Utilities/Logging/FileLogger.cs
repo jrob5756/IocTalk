@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace JrTech.IocTalk.Library.Utilities.Logging
+namespace JrTech.IocTalk.StandardLibrary.Utilities.Logging
 {
     public class FileLogger : ILogger
     {

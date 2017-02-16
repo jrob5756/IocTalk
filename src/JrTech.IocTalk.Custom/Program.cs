@@ -1,7 +1,7 @@
 ﻿using Autofac;
 using DryIoc;
 using JrTech.IocTalk.Custom.Injection;
-using JrTech.IocTalk.Library.Utilities.Logging;
+using JrTech.IocTalk.StandardLibrary.Utilities.Logging;
 using Microsoft.Practices.Unity;
 
 namespace JrTech.IocTalk.Custom

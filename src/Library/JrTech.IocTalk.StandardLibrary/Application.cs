@@ -1,7 +1,7 @@
-﻿using JrTech.IocTalk.Library.Utilities;
-using JrTech.IocTalk.Library.Utilities.Logging;
+﻿using JrTech.IocTalk.StandardLibrary.Utilities;
+using JrTech.IocTalk.StandardLibrary.Utilities.Logging;
 
-namespace JrTech.IocTalk.Library
+namespace JrTech.IocTalk.StandardLibrary
 {
     public class Application
     {

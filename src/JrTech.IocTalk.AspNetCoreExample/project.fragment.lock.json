@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "JrTech.IocTalk.StandardLibrary/1.0.0": {
+      "type": "project",
+      "framework": ".NETStandard,Version=v1.3",
+      "compile": {
+        "bin/Debug/JrTech.IocTalk.StandardLibrary.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/JrTech.IocTalk.StandardLibrary.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/JrTech.IocTalk.StandardLibrary.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}

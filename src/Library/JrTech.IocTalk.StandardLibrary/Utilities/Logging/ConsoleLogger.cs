@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace JrTech.IocTalk.Library.Utilities.Logging
+namespace JrTech.IocTalk.StandardLibrary.Utilities.Logging
 {
     public class ConsoleLogger : ILogger
     {

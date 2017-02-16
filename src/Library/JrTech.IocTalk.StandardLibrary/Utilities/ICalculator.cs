@@ -1,4 +1,4 @@
-﻿namespace JrTech.IocTalk.Library.Utilities
+﻿namespace JrTech.IocTalk.StandardLibrary.Utilities
 {
     public interface ICalculator
     {

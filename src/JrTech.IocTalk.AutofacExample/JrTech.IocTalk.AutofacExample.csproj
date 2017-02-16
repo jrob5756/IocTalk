@@ -55,9 +55,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Library\JrTech.IocTalk.Library\JrTech.IocTalk.Library.csproj">
-      <Project>{aab9e74d-44aa-4127-8b4f-b580af3f47e4}</Project>
-      <Name>JrTech.IocTalk.Library</Name>
+    <ProjectReference Include="..\Library\JrTech.IocTalk.StandardLibrary\JrTech.IocTalk.StandardLibrary.csproj">
+      <Project>{050351c6-ddf3-448b-8c8d-0ae41ed56b28}</Project>
+      <Name>JrTech.IocTalk.StandardLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
-using JrTech.IocTalk.Library;
-using JrTech.IocTalk.Library.Utilities.Logging;
+using System.Net.Mime;
+using JrTech.IocTalk.StandardLibrary;
+using JrTech.IocTalk.StandardLibrary.Utilities.Logging;
 using StructureMap;
 
 namespace JrTech.IocTalk.StructureMapExample

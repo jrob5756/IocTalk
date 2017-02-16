@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using JrTech.IocTalk.Library;
-using JrTech.IocTalk.Library.Utilities.Logging;
+using JrTech.IocTalk.StandardLibrary;
+using JrTech.IocTalk.StandardLibrary.Utilities.Logging;
 using Microsoft.Practices.Unity;
 
 namespace JrTech.IocTalk.UnityExample
